@@ -60,8 +60,9 @@ The application provides:
 2. **Add your images**
    
    Place all product images in the `data/` folder. The CSV should reference these image filenames.
+   Download images from here- https://www.kaggle.com/datasets/nirmalsankalana/fashion-product-text-images-dataset?resource=download
 
-3. **Build the search index**
+4. **Build the search index**
    
    This step creates the FAISS vector index and metadata:
    ```bash
