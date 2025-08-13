@@ -18,6 +18,16 @@ The application provides:
 - Image gallery with detailed item descriptions
 - AI assistant that explains differences between similar items
 
+## Commercial Applications
+
+This system is ideal for **retail clothing stores** seeking to enhance customer experience:
+
+- **In-Store Customer Assistance**: Deploy as interactive kiosks where customers can ask "I need something for a business meeting" or "Show me casual weekend wear" and receive personalized recommendations with exact store locations
+- **Digital Sales Assistant**: Integrate into store apps/websites to help customers find products matching their style preferences and needs
+- **Store Navigation**: When recommending items, the system can be enhanced to display specific aisle/section locations (e.g., "Men's Formal Shirts - Section B, Aisle 3")
+- **Inventory Integration**: Connect with store inventory systems to show real-time availability and direct customers to in-stock items
+- **Staff Training Tool**: Help new employees learn product catalogs and customer service by understanding how to match customer requests with available inventory
+
 ## Prerequisites
 
 - Python 3.8+
@@ -28,7 +38,7 @@ The application provides:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Fashion_Rec.git
+   git clone https://github.com/ds28-ops/Fashion_Rec.git
    cd Fashion_Rec
    ```
 
@@ -159,7 +169,15 @@ python build_index.py
 
 ## License
 
-This project is open source. Feel free to use and modify as needed.
+This project is proprietary software. **All rights reserved.**
+
+**Commercial Use**: Requires explicit written permission from the author.
+**Modification/Distribution**: Prohibited without written authorization.
+**Viewing Only**: This code is available for educational/viewing purposes only.
+
+For commercial licensing, modifications, or any use beyond viewing, please contact the author through GitHub.
+
+See the [LICENSE](LICENSE) file for complete terms and conditions.
 
 ## Acknowledgments
 
