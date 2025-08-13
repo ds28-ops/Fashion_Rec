@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+pillow
+tqdm
+python-dotenv
+openai
+langchain-core
+langchain-openai

@@ -1,0 +1,12 @@
+# data & artifacts
+data/
+images/
+*.faiss
+*.parquet
+*.pkl
+
+# secrets
+.env
+
+# streamlit
+.streamlit/
